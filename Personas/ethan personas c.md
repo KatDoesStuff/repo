@@ -1,9 +1,9 @@
-
+![[Untitled.jpg|146]]
 **Name:** Baera
 **Age:** 23
 **GENDER:** Female
 **LOCATION:**  Iceland 
-**OCCUPATION:**   
+**OCCUPATION:**  
 **JOB TITLE:** Accounting
 **HIGHEST LEVEL OF EDUCATION:** 
 **ANNUAL INCOME:** $167900 
