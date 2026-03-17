@@ -6,7 +6,7 @@
 ## Persona 1 - Alastor Knolastname
 Statement from Tyler:
 ### Feedback:
-Eef:
+Eef: he will be frustrating to deal with but it will give great insight for older generations and People what would get frustrated easily with technology wat expect it to just work
 Kat:
 
   
