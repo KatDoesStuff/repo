@@ -1,5 +1,27 @@
-### personas 1
 
-### personas 2
+# In this file Kat, Tyler, and Eef will give a statement and/or a piece of feedback on what we think of each other's personas.
 
-### personas 3
+  
+
+## Persona 1 - Alastor Knolastname
+Statement from Tyler:
+### Feedback:
+Eef:
+Kat:
+
+  
+
+## Persona 2 - Baerajgn
+Statement from Eef:
+### Feedback:
+Tyler:
+Kat:
+
+
+  
+
+## Persona 3 - Jimmy Jenkins jr
+Statement from Kat:
+### Feedback:
+Tyler:
+Eef:
