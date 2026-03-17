@@ -7,14 +7,14 @@
 Statement from Tyler:
 ### Feedback:
 Ethan: he will be frustrating to deal with but it will give great insight for older generations and People what would get frustrated easily with technology wat expect it to just work 
-Kat:
+
 
   
 
 ## Persona 2 - Baerajgn
 Statement from Ethan:
 ### Feedback:
-Tyler:
+
 Kat:
 
 
@@ -24,4 +24,4 @@ Kat:
 Statement from Kat:
 ### Feedback:
 Tyler:
-Ethan:
+
