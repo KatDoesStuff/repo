@@ -1,5 +1,5 @@
 # Agile Project 'readme'
-This is a cool readme file!
+Read-me file, cool people can read only :)
 
 ### Iteration 1
 - Repo is set up to help with communication between all parties.
@@ -14,4 +14,7 @@ This is a cool readme file!
 - Updated the README chart to display all updates we have made since Iteration 2
 
 ### Iteration 3
+12th May 2026 - Updated Kanban to include risk register and UAT table at the beginning of Iteration 3
 19th May 2026 - Published the site in the docs folder. The site can be found at this link --> https://katdoesstuff.github.io/repo/
+<br>20th May 2026 - Finished writing the Risk Register, risk register needs to be added to repo
+<br>20th May 2026 - Created the User Acceptance Testing table
