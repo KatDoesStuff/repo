@@ -10,7 +10,7 @@ Read-me file, cool people can read only :)
 ### Iteration 2
 - Created Gantt Chart to keep track of progress alongside the GitHub and README.
 - Created Kanban to keep track of progress alongside the Github and README.
-- Created a Resource list to help thereorise the amount of money and time it would cost a business to do the work we have done over iteration one and iteration 2. We have decided to use the average price of $83 per hour.
+- Created a Resource table to help thereorise the amount of money and time it would cost a business to do the work we have done over iteration one and iteration 2. We have decided to use the average price of $83 per hour.
 - Updated the README chart to display all updates we have made since Iteration 2
 
 ### Iteration 3
@@ -18,3 +18,4 @@ Read-me file, cool people can read only :)
 19th May 2026 - Published the site in the docs folder. The site can be found at this link --> https://katdoesstuff.github.io/repo/
 <br>20th May 2026 - Finished writing the Risk Register, risk register needs to be added to repo
 <br>20th May 2026 - Created the User Acceptance Testing table
+<br>2nd June 2026 - Added more to Risk Register for iteration 3, uploaded Risk Register and finished and uploaded Resource table
