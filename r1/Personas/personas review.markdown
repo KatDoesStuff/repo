@@ -4,23 +4,16 @@
   
 
 ## Persona 1 - Alastor Knolastname
-Statement from Tyler:
 ### Feedback:
 Ethan: he will be frustrating to deal with but it will give great insight for older generations and People what would get frustrated easily with technology wat expect it to just work 
-
-
   
 
 ## Persona 2 - Baerajgn
-Statement from Ethan:
 ### Feedback:
-Kat:
-
-
+Kat: Cannot understand all information in the persona file as some words have been spelt incorrectly. Whilst the base of the persona is there, some more information is needed, such as what issues this user may have using technology, and maybe some more detailed motivations
   
 
 ## Persona 3 - Jimmy Jenkins jr
-Statement from Kat:
 ### Feedback:
 Tyler: Jimmy Jenkins Jr will be difficult to work with as he is a child and won't be able to properly explain what he wants that is understandable to adults. Jimmy Jenkins Jr also will not be able to comprehend adult words or topics that will be used. It is also very likely that Jimmy Jenkins Jr does not have any form of income or understanding of currency.
 
