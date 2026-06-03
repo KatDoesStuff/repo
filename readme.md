@@ -19,4 +19,4 @@ Read-me file, cool people can read only :)
 <br>20th May 2026 - Finished writing the Risk Register, risk register needs to be added to repo
 <br>20th May 2026 - Created the User Acceptance Testing table
 <br>2nd June 2026 - Added more to Risk Register for iteration 3, uploaded Risk Register and finished and uploaded Resource table
-<br>3rd June 2026 - Finished the User Acceptance Testing table and uploaded it to the repo. 
+<br>3rd June 2026 - Finished the User Acceptance Testing table and uploaded it to the repo. Updated Resource table to include the UAT table costs.
